@@ -1,0 +1,227 @@
+/*Laura V. Bullock 8/17/2020 - CSS for EXAM - James Consulting*/
+
+*{
+    font-family: "Verdana", Tahoma, sans-serif;
+    font-weight: lighter;
+    /* outline: 2px dashed red; */
+    margin: 0px auto;
+} 
+
+#wrapper{
+    width: 910px;
+    background-color: #130e55;
+    padding: 20px 5px 5px 10px;
+
+}
+
+h3{
+    display: inline-block;
+    margin-left: 15px;
+    color: white;
+}
+
+span{
+    color: #a779db;
+}
+
+span.home{
+    color: #1b97e5;
+}
+
+nav{
+    display: inline-block;
+    margin-left: 70px;
+    font-size: 14px;
+    vertical-align: center;
+}
+
+    a{
+        display: inline-block;
+        margin: 0px 0px 0px 60px;
+        color: white;
+        text-decoration: none;
+    }
+
+    ul{
+        padding: 0px;
+        margin-right: 0px;
+        list-style-type: none;
+    }
+
+    ul li{
+        display: inline-block;
+        color: white;
+    }
+
+#container{
+    background-color: white;
+    margin: 20px 3px 20px 5px;
+    padding-bottom: 1px;
+}
+    img{
+        padding: 10px;
+        margin: 0px;
+        width: 882px; 
+    }
+
+    img.icon3{
+        width: 22px;
+        padding: 0px;
+        border-radius: 50%;
+        background-color: white;
+
+    }
+
+    .craftroom{
+        height: 146px;
+        aspect-ratio: 16 / 9;
+    }
+
+    .lavender-boxes{
+        width: 262px;
+        background-color: #9c6ba5;
+        margin-bottom: 0px;
+    }
+
+    .lavender-boxes img.icon3, h4{
+        margin: 10px 0px;
+        display: inline-block;
+        vertical-align: top;
+    }
+
+    h4{
+        color: white;
+    }
+
+    p{
+        font-size: 10px;
+
+    }
+
+    .lavender-boxes h4, .white-boxes h4{
+        font-size: 18px;
+        margin-left: 0px;
+        vertical-align: center;
+    }
+
+    .lavender-boxes p{
+        height: 75px;
+        line-height: 10px;
+        color: white;
+        padding: 5px 15px 0px 5px;
+    }
+
+    .button{
+        margin: 10px auto;
+        font-size: 10px;
+        background-image: linear-gradient(#46acec 50%, #1993de 50%);
+        border: none;
+        border-radius: 2px;
+        color: white;
+        width: 80px;
+        height: 20px;   
+    }
+
+    .button:hover, #button2:hover{
+        cursor: pointer;
+
+    }
+
+    .lavender-boxes, .white-boxes{
+        display: inline-block;
+        vertical-align: top;
+        margin: 0px 0px 0px 10px;
+        padding: 10px;
+    }
+
+
+.white-boxes{
+    background-color: white;
+    width: 282px;
+    height: 180px;
+    margin: 20px 0px 0px 10px;
+    padding: 0px;
+}
+
+    .white-boxes h4{
+        width: 282px;
+        color: black;
+        margin: 0px;
+        padding: 0px;
+    }
+
+    .white-boxes img{
+        width: 282px;
+        padding: 0px;
+        margin: 0px;
+    }
+
+    div .center-paras{
+        width: 282px;
+        height: 154px;
+
+        color: black;
+        margin: 10px 0px 0px 0px;
+    }
+
+        .center-paras p{
+        padding: 10px 0px 0px 0px;
+    }
+
+        #button2{
+            display: block;
+            margin: 30px 0px 0px 0px;
+            padding-left: 0px;
+            padding-right: 0px;
+            font-size: 12px;
+            color: #1b97e5;
+            border: 0px;
+            background-color: white;
+        }
+
+#speech-bubble{
+    position: relative;
+    background-color: #daedff;
+    padding: 20px;
+    color: black;
+    font-size: 12px;
+    font-style: italic;
+    text-align: center;
+    position: relative;
+}
+
+    #speech-bubble::before{
+        content: "";
+        position: absolute;
+        left: 30px;
+        top: 100%;
+        margin-left: -10px;
+        border-width: 10px;
+        border-style: solid;
+        border-color: #daedff transparent transparent transparent;
+    }
+
+#name{
+    display: block;
+    margin-top: 35px;
+    font-size: 10px;
+}
+
+footer{
+    display: block;
+    width: 902px;
+    padding: 10px 0px;
+    margin: -19px 0px 2px 5px;
+    text-align: center;
+    font-size: 10px;
+    background-color: #9c6ba5;
+}
+    footer a{
+        color: white;
+    }
+
+    #home2{
+        color: #9ac9ed;
+    }
+
+
