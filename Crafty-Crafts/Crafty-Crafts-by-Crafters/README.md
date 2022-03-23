@@ -1,8 +1,7 @@
 # HTML/CSS-Only Web Page
-
-### Laura V. Bullock
-### 8/17/2020
-### Web Fundamentals
+Laura V. Bullock
+8/17/2020
+Web Fundamentals
 
 ---
 
