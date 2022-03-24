@@ -64,7 +64,7 @@ nav{
         width: 882px; 
     }
 
-    img.icon3{
+    img.icon{
         width: 22px;
         padding: 0px;
         border-radius: 50%;
@@ -83,7 +83,7 @@ nav{
         margin-bottom: 0px;
     }
 
-    .lavender-boxes img.icon3, h4{
+    .lavender-boxes img.icon, h4{
         margin: 10px 0px;
         display: inline-block;
         vertical-align: top;
