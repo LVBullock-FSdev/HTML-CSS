@@ -9,4 +9,6 @@ Laura V. Bullock, 8/17/2020, Web Fundamentals
 * Add images, buttons, navigation, and a footer with navigation.
 * Include non-functional links, since we have not yet covered link functionality.
 * You are free to use Lorem Ipsum for your content.
-* Have fun and be creative!
+* Have fun and be creative.
+
+![Crafty Crafts by Crafters](https://user-images.githubusercontent.com/68565549/159832118-992714a3-bdb4-424b-9723-06fdbcf758ff.png)
